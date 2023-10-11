@@ -1,0 +1,72 @@
+[
+    {
+        "studentId" : 1,
+        "studentName" : "Alex",
+        "totalScore" : 150,
+        "totalQuestions" : 50,
+        "correctAnswers" : 40
+    },
+    {
+        "studentId" : 2,
+        "studentName" : "Surya",
+        "totalScore" : 150,
+        "totalQuestions" : 50,
+        "correctAnswers" : 34
+    },
+    {
+        "studentId" : 3,
+        "studentName" : "Priya",
+        "totalScore" : 150,
+        "totalQuestions" : 50,
+        "correctAnswers" : 23
+    },
+    {
+        "studentId" : 4,
+        "studentName" : "Indhu",
+        "totalScore" : 150,
+        "totalQuestions" : 50,
+        "correctAnswers" : 45
+    },
+    {
+        "studentId" : 5,
+        "studentName" : "Madhu",
+        "totalScore" : 150,
+        "totalQuestions" : 50,
+        "correctAnswers" : 47
+    },
+    {
+        "studentId" : 6,
+        "studentName" : "Ramu",
+        "totalScore" : 150,
+        "totalQuestions" : 50,
+        "correctAnswers" : 37
+    },
+    {
+        "studentId" : 7,
+        "studentName" : "Siva",
+        "totalScore" : 150,
+        "totalQuestions" : 50,
+        "correctAnswers" : 33
+    },
+    {
+        "studentId" : 8,
+        "studentName" : "Vibhav",
+        "totalScore" : 150,
+        "totalQuestions" : 50,
+        "correctAnswers" : 36
+    },
+    {
+        "studentId" : 9,
+        "studentName" : "Suman",
+        "totalScore" : 150,
+        "totalQuestions" : 50,
+        "correctAnswers" : 42
+    },
+    {
+        "studentId" : 10,
+        "studentName" : "Sony",
+        "totalScore" : 150,
+        "totalQuestions" : 50,
+        "correctAnswers" : 31
+    }
+]
